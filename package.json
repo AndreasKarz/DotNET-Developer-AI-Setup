@@ -1,0 +1,15 @@
+{
+  "name": "vibe-coding-dev-setup",
+  "version": "1.0.0",
+  "description": "Setup script for MCP servers in VS Code and VS Code Insiders",
+  "private": true,
+  "type": "module",
+  "scripts": {  
+    "setup-mcp": "node setup-mcp-servers.mjs",
+    "setup-mcp:dry-run": "node setup-mcp-servers.mjs --dry-run",
+    "setup-mcp:quick": "node setup-mcp-servers.mjs --skip-cache-warm"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
