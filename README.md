@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/andreaskarz-vibe-coding-dev-setup-badge.png)](https://mseep.ai/app/andreaskarz-vibe-coding-dev-setup)
+
 # Vibe-Coding-Dev-Setup
 
 ## Introduction
